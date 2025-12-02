@@ -293,6 +293,7 @@ fun SettingsScreen(modifier: Modifier = Modifier, theme: MutableState<Theme>, la
                 .fillMaxWidth()
                 .clickable { 
                     val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://youtu.be/9xaXXWOTYeI?si=NmwfOAHv7OiEdBmu"))
+                    intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK
                     context.startActivity(intent)
                 },
             elevation = CardDefaults.cardElevation(defaultElevation = 4.dp)
