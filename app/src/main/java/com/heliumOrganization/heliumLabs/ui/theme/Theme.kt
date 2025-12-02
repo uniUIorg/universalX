@@ -1,4 +1,4 @@
-package com.eclipseOrganization.eclipseLabs.ui.theme
+package com.heliumOrganization.heliumLabs.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
@@ -9,13 +9,6 @@ import androidx.compose.material3.dynamicLightColorScheme
 import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.platform.LocalContext
-import com.heliumOrganization.heliumLabs.ui.theme.Typography
-import com.eclipseLaboratory.eclipseLabs.ui.theme.Pink40
-import com.eclipseLaboratory.eclipseLabs.ui.theme.Pink80
-import com.eclipseLaboratory.eclipseLabs.ui.theme.Purple40
-import com.eclipseLaboratory.eclipseLabs.ui.theme.Purple80
-import com.eclipseLaboratory.eclipseLabs.ui.theme.PurpleGrey40
-import com.eclipseLaboratory.eclipseLabs.ui.theme.PurpleGrey80
 
 private val DarkColorScheme = darkColorScheme(
     primary = Purple80,
