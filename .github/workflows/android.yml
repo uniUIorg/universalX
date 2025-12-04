@@ -33,10 +33,10 @@ jobs:
         echo ${{ secrets.KEYSTORE }} | base64 --decode > key.jks
 
     - name: Build Debug
-      run: ./gradlew assembleDebug
+      run: ./gradlew assembleUniversalDebug
 
     - name: Build Release
-      run: ./gradlew assembleRelease
+      run: ./gradlew assembleUniversalRelease
 
     - name: Upload a Debug Artifact
       uses: actions/upload-artifact@v4
