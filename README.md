@@ -21,3 +21,6 @@ chmod +x gradlew
 ```
 
 - [**Install from Releases**](https://git.gay/nguyencaoantuong/Moonlight/releases)
+
+## Credits:
+- [ngbnamm](https://git.bnamm.org/namm) - README.
