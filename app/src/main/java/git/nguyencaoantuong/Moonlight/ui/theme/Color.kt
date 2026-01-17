@@ -1,4 +1,4 @@
-package git.nguyencaoantuong.Moonlight.ui.theme
+package org.universalUI.universalX.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
