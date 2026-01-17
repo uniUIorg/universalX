@@ -1,8 +1,8 @@
 <img width="175" align="right" src="https://git.gay/nguyencaoantuong/stuff/raw/branch/main/moonlight.png">
 
-# Moonlight
+# universalX
 
-Lightweight kernel manager for Android.
+Toolbox for universalUI
 
 ## Install
 
@@ -23,4 +23,4 @@ chmod +x gradlew
 - [**Install from Releases**](https://git.gay/nguyencaoantuong/Moonlight/releases)
 
 ## Credits:
-- [ngbnamm](https://git.bnamm.org/namm) - README.
+- nothing.
