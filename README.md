@@ -1,5 +1,3 @@
-<img width="175" align="right" src="https://git.gay/nguyencaoantuong/stuff/raw/branch/main/moonlight.png">
-
 # universalX
 
 Toolbox for universalUI
