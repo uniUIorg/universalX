@@ -122,7 +122,7 @@ fun KernelStatus() {
     val kernelVersion = System.getProperty("os.version") ?: "universe"
 
     val (text, color, textColor) = when {
-        kernelVersion.contains("universalUI+perf", ignoreCase = true) -> Triple("h*", Color(0xFF42A5F5), Color.White)
+        kernelVersion.contains("universalKernel", ignoreCase = true) -> Triple("h*", Color(0xFF42A5F5), Color.White)
         else -> Triple("universe", Color.DarkGray, Color.White)
     }
 
