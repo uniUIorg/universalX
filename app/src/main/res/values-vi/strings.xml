@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Moonlight</string>
+    <string name="app_name">universalX</string>
     <string name="home">Trang chủ</string>
     <string name="settings">Cài đặt</string>
     <string name="device_information">Thông tin thiết bị</string>
@@ -10,7 +10,6 @@
     <string name="build_number">Số bản dựng</string>
     <string name="security_patch">Bản vá bảo mật</string>
     <string name="kernel_version">Phiên bản Kernel</string>
-    <string name="esim_provider">Nhà cung cấp (e)SIM</string>
     <string name="fingerprint">Dấu vân tay</string>
     <string name="theme">Chủ đề</string>
     <string name="language">Ngôn ngữ</string>
